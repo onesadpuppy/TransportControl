@@ -1,4 +1,4 @@
-# Transporti_Control
+# Transport_Control
 Transport Control is a project for controlling the Transport functions of a DAW. Originally this project was created to allow me to record vocals further from my computer keyboard. Ultimately I would have to press the 'r' key to record, press 'space' to stop, and depending on the quality of the take I also wanted to be able to send 'ctrl+z' to undo, or effeectively delete the recording.
 
 After creating the basic sketch I realized that there may be other uses for the Transport control beyond my limited implementation. 
